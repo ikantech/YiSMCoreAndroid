@@ -1,2 +1,2 @@
-# yismcore-android
+# YiSMCoreAndroid
 yismcore android version
