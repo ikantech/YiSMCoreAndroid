@@ -20,3 +20,7 @@ byte[] retBytes = YiSMCore.getInstance("MD5")
                         .setupForDigest()
                         .doFinal(new byte[]{0x61, 0x62, 0x63});
 ```
+
+## Docs
+
+[document website](http://www.yiim.net/2020/07/14/yismcore_index/)
